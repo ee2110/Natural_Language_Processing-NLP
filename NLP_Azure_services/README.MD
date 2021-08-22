@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#readme">
-        <img alt="Microsoft Azure" width="50%" src="img/azure_logo.png">
+        <img alt="Microsoft Azure" width="50%" src="../img/azure_logo.png">
     </a>
 </p>
 
