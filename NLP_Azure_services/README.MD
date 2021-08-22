@@ -1,12 +1,12 @@
 <p align="center">
     <a href="#readme">
-        <img alt="Microsoft Azure" width="50%" src="azure_logo.png">
+        <img alt="Microsoft Azure" width="50%" src="img/azure_logo.png">
     </a>
 </p>
 
 ---
 
-**<a href="https://azure.microsoft.com/en-us/">Microsoft Azure</a>** is a cloud platform that provides wide ranges of diversified cloud services including compute, analytics, storage and networking.
+**<a href="https://azure.microsoft.com/en-us/" target="_blank">Microsoft Azure</a>** is a cloud platform that provides wide ranges of diversified cloud services including compute, analytics, storage and networking.
 
 This folder just gathering some example uses case of Microsoft Azure NLP services. Most of the example API codes has been provided in the documentation.
 
